@@ -79,6 +79,8 @@ So that **people will pay the correct amount of tax based on their purchase**
 
 ---
 
+This test was inspired by the JustGiving Recruitment Test which you can find [here](https://github.com/JustGiving/Recruitment-Test), big shout out goes out to them.
+
 Thanks for your time, looking forward to seeing your answers.
 
 
