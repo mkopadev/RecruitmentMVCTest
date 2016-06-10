@@ -9,7 +9,7 @@ For reference, Gross Amount is calculated as follows:
 - This assignment takes an average of about 60 minutes.
 - Use Bootstrap in your views to make it responsive.
 - Use async await as you see fit.
-- We used MSTest and [Moq](http://code.google.com/p/moq) at Applicita, references have been added using [NuGet](http://nuget.codeplex.com/) Packages. Everything is in place for you to just write the code (no "File > New Project" required).
+- We used MSTest and [Moq](http://code.google.com/p/moq) at MKopa, references have been added using [NuGet](http://nuget.codeplex.com/) Packages. Everything is in place for you to just write the code (no "File > New Project" required).
 - Please DO NOT fork this project on Github, as we want to be sure candidates' test submissions are original.
 
 ## Task requirements
@@ -17,8 +17,8 @@ For reference, Gross Amount is calculated as follows:
 - All stories to be completed with an appropriate level of testing.
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
-- Please [download](https://github.com/Applicita/RecruitmentTest/archives/master) the [Recruitment-Test repository](https://github.com/Applicita/RecruitmentTest), complete the tasks as you see fit.
-- Send us a Dropbox/Skydrive/whatever link to your zipped code to info@applicita.com or attach a zip file directly to the email.
+- Please [download](https://github.com/MKopa/RecruitmentTest/archives/master) the [Recruitment-Test repository](https://github.com/MKopa/RecruitmentTest), complete the tasks as you see fit.
+- Send us a Dropbox/Skydrive/whatever link to your zipped code to softwareapps@m-kopa.com or attach a zip file directly to the email.
 
 ## Task Stories
 
