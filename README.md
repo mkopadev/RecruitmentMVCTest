@@ -17,7 +17,7 @@ For reference, Gross Amount is calculated as follows:
 - All stories to be completed with an appropriate level of testing.
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
-- Please [download](https://github.com/mKopadev/RecruitmentTest/archives/master) the [Recruitment-Test repository](https://github.com/mkopadev/RecruitmentTest), complete the tasks as you see fit.
+- Please [download](https://github.com/mKopadev/RecruitmentMVCTest/archives/master) the [Recruitment-Test repository](https://github.com/mkopadev/RecruitmentMVCTest), complete the tasks as you see fit.
 - Send us a Dropbox/Skydrive/whatever link to your zipped code to softwareapps@m-kopa.com or attach a zip file directly to the email.
 
 ## Task Stories
